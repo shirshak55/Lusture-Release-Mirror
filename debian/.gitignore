@@ -1,0 +1,12 @@
+/*.log
+/*.substvars
+/.debhelper
+/files
+/lustre-dev
+/lustre-source
+/lustre-iokit
+/lustre-tests
+/lustre-utils
+/lustre-*.substvars
+/lustre-*-utils
+/tmp
